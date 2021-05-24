@@ -2189,3 +2189,9 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.container-img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
